@@ -1,4 +1,4 @@
-# 42Cursus progress
+# 1337-Pool progress
 
 # PROJECT LINK : https://github.com/Himejjad/POOL-1337-DAYS
 

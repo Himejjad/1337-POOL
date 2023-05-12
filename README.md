@@ -1,6 +1,5 @@
 # 1337-Pool progress
-
-# PROJECT LINK : https://github.com/Himejjad/POOL-1337-DAYS
+PROJECT LINK : https://github.com/Himejjad/POOL-1337-DAYS
 
 | Project             | Hours    | Experienc  |Status|
 | ----------------    |---------:| ----------- |:------:|
